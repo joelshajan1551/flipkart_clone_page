@@ -1,0 +1,10 @@
+.form-control {
+  border-radius: 0 !important;
+  border: none;
+}
+input {
+  font-size: 12px;
+}
+.container-fluid {
+  background-color: #2874f0;
+}
