@@ -5,6 +5,6 @@
 input {
   font-size: 12px;
 }
-.container-fluid {
+#header {
   background-color: #2874f0;
 }
