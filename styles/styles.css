@@ -8,3 +8,10 @@ input {
 #header {
   background-color: #2874f0;
 }
+body {
+  margin-bottom: 1000px;
+}
+.hamburger-menu {
+  border: none;
+  background-color: transparent;
+}
