@@ -7,6 +7,7 @@ input {
 }
 #header {
   background-color: #2874f0;
+  position: fixed !important;
 }
 body {
   margin-bottom: 1000px;
@@ -17,4 +18,13 @@ body {
 }
 .hambergur-menu-icon {
   filter: invert(100%);
+}
+.subheading {
+  font-size: 14px !important;
+}
+h6 {
+  font-size: 14px;
+}
+#header h6 {
+  font-size: 16px;
 }
