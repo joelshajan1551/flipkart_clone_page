@@ -11,7 +11,10 @@ input {
 body {
   margin-bottom: 1000px;
 }
-.hamburger-menu {
+.sidenav {
   border: none;
   background-color: transparent;
+}
+.hambergur-menu-icon {
+  filter: invert(100%);
 }
