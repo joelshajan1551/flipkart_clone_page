@@ -9,9 +9,7 @@ input {
   background-color: #2874f0;
   position: fixed !important;
 }
-body {
-  margin-bottom: 1000px;
-}
+
 .sidenav {
   border: none;
   background-color: transparent;
